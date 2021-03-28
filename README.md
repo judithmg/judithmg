@@ -1,4 +1,8 @@
 # Hello there!
+[![Repos Badge](https://badges.pufler.dev/repos/judithmg)](https://badges.pufler.dev)
+
+
+
 
 🏋️‍  This is Judith, geeky webdev who's in love with the PokéApi and needs her days to be longer so I could spend more hours with my dearest friend VS Code.
 

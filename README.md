@@ -1,5 +1,4 @@
 # Hello there!
-[![Repos Badge](https://badges.pufler.dev/repos/judithmg)](https://badges.pufler.dev)
 
 
 
